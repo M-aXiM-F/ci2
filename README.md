@@ -1,2 +1,3 @@
 # ci2
 Chemical Informatics 2
+Chemical_Informatics_2_terminal_version
