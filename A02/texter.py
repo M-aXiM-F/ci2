@@ -22,7 +22,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         Texter(sys.argv[1]).funkcia()
     else:
-        print("Please enter a file name" \
-        "" \
-        "Example:" \
+        print("Please enter a file name" \n
+        "" \n
+        "Example:" \n
         "python texter.py example.txt") 
