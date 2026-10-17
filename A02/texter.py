@@ -16,7 +16,7 @@ class Texter:
                 count +=1                        #checks every string; for those that begin with an uppercase letter adds 1 to the "count"
             else:
                 pass                         
-        print("Words with capital letter", count)      #prints amount of words starting with uppercase
+        print("Words with capital letter:", count)      #prints amount of words starting with uppercase
 
 if __name__ == "__main__":                #checks if in main
     if len(sys.argv) > 1:                 #if amount of arguments given is greater than 1 create an object of class "Texter", give texter the argument of the file name and run "funkcia" on the object 
