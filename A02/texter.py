@@ -10,7 +10,7 @@ class Texter:
             slova = f.read().split()
 
         print("Word count:", len(slova))
-
+        count=0
         for i in slova:
             if i[0].isupper():
                 count +=1
