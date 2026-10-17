@@ -1,2 +1,5 @@
-example: "python texter.py name.txt"
-replace "name" with your file name
+Example of usage: 
+
+    python texter.py name.txt
+
+Replace "name" with your file name
