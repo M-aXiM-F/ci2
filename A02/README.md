@@ -6,6 +6,6 @@ Example of use:
 
     >cd A02
 
-    >python texter.py name.txt
+    >python texter.py test.txt
 
 Replace "name" with your file name
