@@ -12,6 +12,6 @@ git clone git@github.com:M-aXim-F/ci2.git
 cd ci2/A05/
 python3 -m venv .venv
 . .venv/bin/activate
-pip install requirements -r
+pip install -r requirements
 python3 cdxml2sdf.py *.cdxml name_of_file.sdf
 ``` 
